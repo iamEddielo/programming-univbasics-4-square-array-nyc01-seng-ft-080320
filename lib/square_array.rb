@@ -1,6 +1,8 @@
 
   # your code here
 array = [numbers]
+length = array.length
+
 def square_array(array)
   while array
  
