@@ -9,6 +9,6 @@ def square_array(array)
     array**2 << new_numbers
     counter += 1 
   end
-puts new_numbers
+new_numbers
 end
 
