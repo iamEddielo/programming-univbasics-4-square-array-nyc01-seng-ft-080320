@@ -1,6 +1,6 @@
 
   # your code here
-array = [numbers]
+array = [1,2,3,4]
 counter = 0
 
 def square_array(array)
