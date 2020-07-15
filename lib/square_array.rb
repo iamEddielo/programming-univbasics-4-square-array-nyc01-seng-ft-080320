@@ -10,9 +10,7 @@ def square_array(array)
   end
 end
 
- 
-while array.length.times do |index|
-  intergers**2
+  i
   new_array.push(array[index] + 1)
 end
 new_array
