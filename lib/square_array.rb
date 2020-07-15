@@ -8,6 +8,4 @@ def square_array(array)
     array**2
     counter += 1 
   end
-  
-  new_numbers(array)
 end
