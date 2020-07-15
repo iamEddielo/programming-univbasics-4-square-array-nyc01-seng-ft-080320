@@ -9,5 +9,5 @@ def square_array(array)
     counter += 1 
   end
   
-  new_numbers
+  new_numbers(array)
 end
