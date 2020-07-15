@@ -7,7 +7,7 @@ def square_array(array)
   new_numbers = []
   
   while counter < array.length do
-    binding.pry
+   # binding.pry
     # array[counter]**2 << new_numbers
     new_numbers << array[counter] ** 2 
     counter += 1 
